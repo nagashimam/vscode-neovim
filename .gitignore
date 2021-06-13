@@ -6,4 +6,5 @@ yarn-error.log
 .DS_Store
 *.vsix
 *.zip
-import-list.csv
+all-module-import.csv
+external-module-import.csv
